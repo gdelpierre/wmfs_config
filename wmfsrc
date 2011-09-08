@@ -1,0 +1,16 @@
+#
+# ~/.config/wmfs/wmfsrc
+#
+
+# Include file to split configuration
+
+@include "~/.config/wmfs/conf.d/misc"
+@include "~/.config/wmfs/conf.d/bar"
+@include "~/.config/wmfs/conf.d/layouts"
+@include "~/.config/wmfs/conf.d/tags"
+@include "~/.config/wmfs/conf.d/root"
+@include "~/.config/wmfs/conf.d/client"
+@include "~/.config/wmfs/conf.d/rules"
+@include "~/.config/wmfs/conf.d/menu"
+@include "~/.config/wmfs/conf.d/launcher"
+@include "~/.config/wmfs/conf.d/keys"

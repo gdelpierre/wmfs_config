@@ -1,0 +1,15 @@
+[misc]
+        use_xft               = true
+        font                  = "dejavu-8"
+        raisefocus            = true
+        focus_follow_mouse    = true
+        focus_follow_movement = true
+        opacity               = 255
+		status_timing		  = 1
+		status_path			  = "~/.config/wmfs/status.sh"
+
+        # focus_pointer_click: click on unfocused client area:
+        # true  -- default, set focus
+        # false -- click go to client; including dockapps
+        focus_pointer_click = true
+[/misc]
